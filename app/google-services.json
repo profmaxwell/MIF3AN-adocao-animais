@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993052250078",
+    "project_id": "adocaoanimais-50c23",
+    "storage_bucket": "adocaoanimais-50c23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993052250078:android:c0451bddc4fe4521bd174f",
+        "android_client_info": {
+          "package_name": "com.fieb.adocaoanimais"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993052250078-oml6jjo5gc2eq25qjcdcvph3j3811qu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZUMm0GKZazWZme19wrvDKZGOyO1dzw_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993052250078-oml6jjo5gc2eq25qjcdcvph3j3811qu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
